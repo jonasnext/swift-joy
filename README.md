@@ -1,2 +1,3 @@
-# swift-joy
-swift joy | utils | foundation | mtl • core graphics • core image • core audio
+# ![joy](img/logo.svg)
+
+swift | utils | foundation | mtl • core graphics • core image • core audio
